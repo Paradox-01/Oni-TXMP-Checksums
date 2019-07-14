@@ -1,0 +1,12 @@
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\bin\Debug\OniChecksums.exe.config
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\bin\Debug\OniChecksums.exe
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\bin\Debug\OniChecksums.pdb
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\bin\Debug\OniChecksums.xml
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.vbprojResolveAssemblyReference.cache
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.Form1.resources
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.Resources.resources
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.vbproj.GenerateResource.cache
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.vbproj.CoreCompileInputs.cache
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.exe
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.xml
+C:\Users\ggp\source\repos\OniChecksums\OniChecksums\obj\Debug\OniChecksums.pdb
